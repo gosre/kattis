@@ -3,7 +3,7 @@ package org.clayton;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
-public class CatMouse {
+public class CatMouse { 
 	
 	public static void main(String[] args) {
 		try {
