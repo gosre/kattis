@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.BitSet;
 
+//UNFINISHED
 public class TenKindsOfPeople {
 	
 	private static BitSet[] data;
